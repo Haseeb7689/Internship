@@ -392,5 +392,10 @@ footer div {
   display: flex;
   margin-top: -55px;
 }
+  .left-card-list li {
+    padding-right: 10px;
+    margin: 0px 11px;
+    padding: 0px;
+}
   
 }
