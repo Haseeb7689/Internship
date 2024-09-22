@@ -330,7 +330,7 @@ footer div {
     display: none;
   }
   .top-text {
-    margin-bottom: 19px;
+    margin-bottom: 0px;
     margin-left: 458px;
     display: flex;
     flex-direction: column;
@@ -401,6 +401,12 @@ footer div {
     display: flex;
     margin-top: -40px;
   }
+
+  .top-text span {
+    font-size: 12px;
+    padding: 0px 17px;
+    margin-bottom: 0px;
+}
 
   .footer-ul ul {
     display: flex;
