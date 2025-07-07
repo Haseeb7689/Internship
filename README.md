@@ -1,3 +1,4 @@
 Project Title: Dashboard
-Its a simple dashboard. Just front end no backend.
-HTML and CSS
+What it does: Its a simple dashboard. Just front end no backend.
+Tech used: HTML and CSS
+How to run: 
